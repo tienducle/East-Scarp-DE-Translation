@@ -1,0 +1,15 @@
+﻿{
+  "Name": "East Scarp - German Translation",
+  "Author": "Cyb3rfr3ak",
+  "Version": "0.0.0",
+  "Description": "German Translation for East Scarp.",
+  "UniqueID": "Cyb3rfr3ak.East-Scarp-DE-Translation",
+  "MinimumApiVersion": "4.0.0",
+  "ContentPackFor": {
+    "UniqueID": "LemurKat.EastScarpe.CP",
+    "MinimumVersion": "2.4.3"
+  },
+  "UpdateKeys": [
+    "GitHub:tienducle/East-Scarp-DE-Translation"
+  ]
+}
