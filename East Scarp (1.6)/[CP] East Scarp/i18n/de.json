@@ -1,6 +1,6 @@
 {
   "config.GoatSkin.description": "'Original' für vanilleartige Leere-Ziegen, 'Überarbeitet' für Sauriannes Neugestaltung.",
-  "config.TownMap.description": "Lass auf Standard, es sei denn, du verwendest mehrere Mods, die die Karte ändern.",
+  "config.TownMap.description": "Auf Standard belassen, es sei denn, du verwendest mehrere Mods, die die Karte verändern",
   "config.Forest.description": "Entfernt zwei Häuser und fügt stattdessen ein bewaldetes Stück hinzu. Wird automatisch deaktiviert, wenn ARV installiert ist.",
   "config.Skin.description": "Ändert die Gebäude zu Kayas Santorini-Gebäuden (Kaya) oder Yris Projecy Yellog-Gebäuden (Yri), oder den ursprünglichen ES-Gebäuden (NewEastScarpe - Standard).",
   "config.EnableMeadowFarm.description": "Fügt die bebaubare Karte zwischen Ostklippe und Tiefen Bergen hinzu.",
@@ -25,7 +25,7 @@
   "EastScarp.Locations.Silo": "Silo-Haus",
   "EastScarp.Locations.DeepMountains": "Tiefe Berge",
   "EastScarp.Locations.Orchard": "Kirschplantage",
-  "EastScarp.Locations.DeepDark": "UnderScarp",
+  "EastScarp.Locations.DeepDark": "Das tiefe Dunkel des Osthangs",
   "EastScarp.Locations.OrchardHouse": "Verlassenes Obstgartenhaus",
   "EastScarp.Locations.Smuggler": "Schmugglerhütte",
   "EastScarp.Locations.SeaCave": "Ostklippe Seehöhle",
