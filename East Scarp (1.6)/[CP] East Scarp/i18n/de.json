@@ -55,8 +55,8 @@
   "LocationName.MeadowFarm": "Wiesenfarm",
   "LocationName.DeepMountains": "Tiefe Berge",
     //Obelisk
-  "Obelisk.name": "Schrottobelisk",
-  "Obelisk.desc": "Teleportiert dich zum Ostabhang.",
+  "Obelisk.name": "Ostküsten Obelisk",
+  "Obelisk.desc": "Teleportiert dich zur Ostküste.",
     //Locational Messages
     //*******************
   "Strings.GrampletonES.00": "Grampleton Felder >",
